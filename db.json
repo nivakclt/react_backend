@@ -15,23 +15,6 @@
       "salary": "34000",
       "joiningDate": "2026-09-03",
       "id": "AZogzirAJVQ"
-    },
-    {
-      "name": "hiran k",
-      "email": "hiran@gmail.com",
-      "department": "bca",
-      "salary": "45000",
-      "joiningDate": "2026-10-03",
-      "id": "YZipIIM4qo0"
-    },
-    {
-      "name": "Zean",
-      "email": "zean@gmail.com",
-      "department": "BCA",
-      "salary": "12300",
-      "joiningDate": "2026-09-27",
-      "id": "cRFvvn_x-yg"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
